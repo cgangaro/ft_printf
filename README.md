@@ -21,6 +21,7 @@ The goal of this project is to recode `printf()`.
   - `%x` Prints a number in hexadecimal (base 16) lowercase format.
   - `%X` Prints a number in hexadecimal (base 16) uppercase format.
   - `%%` Prints a percent sign.
+- The function includes precision handling in its output, just like the original printf().
 
 ## Creator's Note
 Project made with ❤️ by [**cgangaro**](https://github.com/cgangaro).
